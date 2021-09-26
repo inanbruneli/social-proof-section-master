@@ -25,7 +25,7 @@ This is a solution to the [Launch countdown timer challenge on Frontend Mentor](
 
 ### Links
 
-- [Solution Live URL](https://inanbruneli.github.io/launch-countdown-timer-main/)
+- [Solution Live URL](https://inanbruneli.github.io/social-proof-section-master/)
 
 ## My process
 
